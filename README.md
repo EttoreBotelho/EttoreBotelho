@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @EttoreBotelho
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 ettorebotelho@hotmail.com
 
 <!---
 EttoreBotelho/EttoreBotelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
