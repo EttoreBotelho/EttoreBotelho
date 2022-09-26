@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EttoreBotelho
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in Data Science and Web Scraping
+- 🌱 I’m currently studying Python and C#.
 - 📫 ettorebotelho@hotmail.com
 
 <!---
